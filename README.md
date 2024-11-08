@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Adam Núñez 👋</h1>
 
-<!--
-**adamnunez96/adamnunez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
+A Java Backend Developer with 3+ experience working with technologies Spring, Spring-Boot, Docker, Sql Databases, SonarQube, Junit, Mockito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🔭 I’m currently working in <a href="https://www.roshka.com/" target="blank">Roshka</a>.
+- 🌱 I’m currently learning <a href="https://kafka.apache.org/" target="blank"> Apache Kafka</a>.
+- 📫 How to reach me **adamaguirre96@gmail.com**
+
+
+
